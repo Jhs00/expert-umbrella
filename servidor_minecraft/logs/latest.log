@@ -1,0 +1,44 @@
+[01:46:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[01:46:11] [ServerMain/INFO]: Loaded 1470 recipes
+[01:46:11] [ServerMain/INFO]: Loaded 1584 advancements
+[01:46:12] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[01:46:12] [Server thread/INFO]: Loading properties
+[01:46:12] [Server thread/INFO]: Default game type: SURVIVAL
+[01:46:12] [Server thread/INFO]: Generating keypair
+[01:46:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:46:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:46:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:46:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:46:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:46:12] [Server thread/INFO]: Preparing level "world"
+[01:46:12] [Server thread/INFO]: Loading 0 persistent chunks...
+[01:46:12] [Server thread/INFO]: Preparing spawn area: 100%
+[01:46:12] [Server thread/INFO]: Time elapsed: 22 ms
+[01:46:12] [Server thread/INFO]: Done (0.585s)! For help, type "help"
+[01:46:25] [Server thread/INFO]: _JN22_[/127.105.81.201:38625] logged in with entity id 55 at (-723.2830887308926, 68.0, -1052.4638856586055)
+[01:46:25] [Server thread/INFO]: _JN22_ joined the game
+[01:47:13] [Server thread/INFO]: HerTon00[/127.105.81.201:57491] logged in with entity id 358 at (-661.2067238600907, 80.9375, -1044.6424461445492)
+[01:47:13] [Server thread/INFO]: HerTon00 joined the game
+[01:57:52] [Server thread/INFO]: HerTon00 has made the advancement [The Parrots and the Bats]
+[01:58:14] [Server thread/INFO]: HerTon00 lost connection: Timed out
+[01:58:14] [Server thread/INFO]: HerTon00 left the game
+[01:58:14] [Server thread/WARN]: handleDisconnection() called twice
+[01:58:20] [Server thread/INFO]: HerTon00[/127.105.81.201:39631] logged in with entity id 1979 at (-660.1514835440614, 91.41999998688698, -1116.300000011921)
+[01:58:20] [Server thread/INFO]: HerTon00 joined the game
+[01:58:50] [Server thread/INFO]: HerTon00 lost connection: Timed out
+[01:58:50] [Server thread/INFO]: HerTon00 left the game
+[01:58:54] [Server thread/INFO]: HerTon00[/127.105.81.201:58597] logged in with entity id 2096 at (-668.46214876358, 89.25220334025373, -1114.2355914404247)
+[01:58:54] [Server thread/INFO]: HerTon00 joined the game
+[01:58:56] [Server thread/INFO]: _JN22_ lost connection: Timed out
+[01:58:56] [Server thread/INFO]: _JN22_ left the game
+[01:59:36] [Server thread/INFO]: _JN22_[/127.105.81.201:55861] logged in with entity id 2299 at (-736.5, 76.0, -1051.5)
+[01:59:36] [Server thread/INFO]: _JN22_ joined the game
+[02:18:06] [Server thread/INFO]: HerTon00 lost connection: Disconnected
+[02:18:06] [Server thread/INFO]: HerTon00 left the game
+[02:28:44] [Server thread/INFO]: HerTon00[/127.105.81.201:53293] logged in with entity id 8971 at (-686.4144240421256, 99.0, -1104.44891937761)
+[02:28:44] [Server thread/INFO]: HerTon00 joined the game
+[02:44:36] [Server thread/INFO]: Villager dcx['Farmer'/15, l='ServerLevel[world]', x=-666.58, y=71.17, z=-986.72] died, message: 'Farmer was speared by Zombie'
+[03:00:25] [Server thread/INFO]: HerTon00 lost connection: Disconnected
+[03:00:25] [Server thread/INFO]: HerTon00 left the game
+[03:09:08] [Server thread/INFO]: _JN22_ lost connection: Disconnected
+[03:09:08] [Server thread/INFO]: _JN22_ left the game
